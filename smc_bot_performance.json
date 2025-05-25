@@ -1,0 +1,15 @@
+{
+  "start_value": 100000,
+  "end_value": 100000.0,
+  "total_return_pct": 0.0,
+  "total_trades": 0,
+  "winning_trades": 0,
+  "losing_trades": 0,
+  "win_rate_pct": 0,
+  "avg_win": 0,
+  "avg_loss": 0,
+  "profit_factor": 0,
+  "max_drawdown_pct": 0.0,
+  "sharpe_ratio": null,
+  "duration": "0:00:00.194332"
+}
